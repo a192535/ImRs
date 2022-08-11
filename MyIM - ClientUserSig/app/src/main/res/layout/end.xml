@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="1px"
+        android:background="#000000"
+        tools:ignore="MissingConstraints" />
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:background="@color/white_smoke"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        tools:ignore="MissingConstraints">
+        <Button
+            android:layout_marginTop="20dp"
+            android:layout_marginStart="50dp"
+            android:layout_marginEnd="50dp"
+            android:layout_marginBottom="20dp"
+            android:id="@+id/btnMsg"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:background="@drawable/cvs"
+            android:layout_weight="1"
+            tools:ignore="NestedWeights" />
+
+        <Button
+            android:layout_marginTop="20dp"
+            android:layout_marginStart="50dp"
+            android:layout_marginEnd="50dp"
+            android:layout_marginBottom="20dp"
+            android:id="@+id/btnContact"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:background="@drawable/ctt"
+            tools:ignore="MissingConstraints"
+            android:layout_weight="1"
+            android:paddingTop="100dp"
+            />
+
+
+        <Button
+            android:layout_marginTop="20dp"
+            android:layout_marginStart="50dp"
+            android:layout_marginEnd="50dp"
+            android:layout_marginBottom="20dp"
+            android:id="@+id/btnMy"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:background="@drawable/my"
+            tools:ignore="MissingConstraints"
+            android:layout_weight="1"/>
+
+    </LinearLayout>
+
+</androidx.constraintlayout.widget.ConstraintLayout>

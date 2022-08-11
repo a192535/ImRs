@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:tools="http://schemas.android.com/tools"
+    android:layout_height="match_parent"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:orientation="vertical">
+
+
+    <com.tencent.rtmp.ui.TXCloudVideoView
+        android:id="@+id/pusher_tx_cloud_view"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="6"
+        android:background="#000000"
+        tools:ignore="MissingConstraints">
+
+        <TextView android:layout_height="match_parent"
+            android:layout_width="match_parent"
+            android:textColor="@color/white"
+            android:textSize="20sp"
+            android:layout_margin="@android:dimen/app_icon_size"
+            android:text="未开启摄像头"/>
+    </com.tencent.rtmp.ui.TXCloudVideoView>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="5"
+        android:orientation="vertical">
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="0dp"
+                android:layout_weight="1"
+                android:layout_marginTop="10dp"
+                tools:ignore="NestedWeights,Suspicious0dp">
+                <Button
+                    android:id="@+id/btnStartCamera"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginStart="10dp"
+                    android:layout_weight="1"
+                    android:textSize="10sp"
+                    android:text="开启摄像头"
+                    tools:ignore="SmallSp" />
+                <Button
+                    android:id="@+id/btnStopCamera"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginStart="10dp"
+                    android:layout_weight="1"
+                    android:textSize="10sp"
+                    android:text="关闭摄像头"
+                    tools:ignore="SmallSp" />
+                <Button
+                    android:id="@+id/btnStartPush"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginStart="10dp"
+                    android:layout_weight="1"
+                    android:textSize="10sp"
+                    android:text="开始推流"
+                    tools:ignore="SmallSp" />
+                <Button
+                    android:id="@+id/btnStopPush"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginStart="10dp"
+                    android:layout_weight="1"
+                    android:textSize="10sp"
+                    android:text="停止推流"
+                    />
+            </LinearLayout>
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="0dp"
+                android:layout_weight="6"
+                android:layout_marginTop="10dp"
+                tools:ignore="SmallSp,Suspicious0dp">
+                <Button
+                    android:id="@+id/btnMir"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginStart="10dp"
+                    android:layout_weight="1"
+                    android:textSize="10sp"
+                    android:text="画面镜像"
+                    />
+                <Button
+                    android:id="@+id/btnCamera"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginStart="10dp"
+                    android:layout_weight="1"
+                    android:textSize="10sp"
+                    android:text="切换前后摄像头"
+                    />
+
+            </LinearLayout>
+
+        </LinearLayout>
+
+</LinearLayout>

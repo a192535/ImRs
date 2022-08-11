@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <EditText
+            android:id="@+id/http_addr"
+            android:layout_width="match_parent"
+            android:layout_height="72dp"
+            android:ems="10"
+            android:hint="输入请求地址"
+            />
+        <LinearLayout
+            android:layout_below="@+id/http_addr"
+            android:layout_width="match_parent"
+            android:layout_height="50dp">
+            <EditText
+                android:id="@+id/type"
+                android:layout_width="0dp"
+                android:layout_height="50dp"
+                android:ems="10"
+                android:hint="application/json"
+                android:layout_weight="1"
+                />
+        </LinearLayout>
+        <EditText
+            android:layout_marginTop="80dp"
+            android:layout_below="@+id/http_addr"
+            android:id="@+id/http_body"
+            android:layout_width="match_parent"
+            android:layout_height="300dp"
+            android:ems="10"
+            android:hint="输入请求体"
+            />
+
+        <Button
+            android:id="@+id/send_button"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/http_body"
+            android:text="发送请求" />
+        <TextView
+            android:id="@+id/http_info"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/send_button"/>
+
+    </RelativeLayout>
+
+</androidx.constraintlayout.widget.ConstraintLayout>

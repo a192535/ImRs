@@ -1,0 +1,14 @@
+{
+    "tpns": {
+        "access_id": "1500018926",
+        "access_key": "AZF4E3LXV8RB"
+    },
+    "com.example.myim": {
+        "channel": {
+            "enable": true
+        }
+    },
+    "upgrade": false,
+    "debug": true,
+    "version": "1.2.3.2"
+}

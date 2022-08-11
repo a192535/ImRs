@@ -1,0 +1,69 @@
+plugins {
+    id 'com.android.application'
+    id 'com.tencent.android.tpns'
+}
+//apply plugin: "com.tencent.android.tpns"
+
+android {
+    compileSdkVersion 30
+    buildToolsVersion "30.0.3"
+
+    defaultConfig {
+        applicationId "com.example.myim"
+        minSdkVersion 24
+        targetSdkVersion 30
+        versionCode 1
+        versionName "1.0"
+
+        testInstrumentationRunner "androidx.test.runner.AndroidJUnitRunner"
+
+        ndk {
+            //设置支持的SO库架构
+            abiFilters 'armeabi' , 'x86', 'armeabi-v7a', 'x86_64', 'arm64-v8a'
+        }
+    }
+
+    buildTypes {
+        release {
+            minifyEnabled false
+            proguardFiles getDefaultProguardFile('proguard-android-optimize.txt'), 'proguard-rules.pro'
+        }
+    }
+    compileOptions {
+        sourceCompatibility JavaVersion.VERSION_1_8
+        targetCompatibility JavaVersion.VERSION_1_8
+    }
+}
+repositories {
+    google()
+    jcenter()
+    // 增加 mavenCentral 仓库
+    mavenCentral()
+}
+
+dependencies {
+
+    //第三方依赖
+    api 'com.tencent.imsdk:imsdk:5.1.56'
+    //    api 'com.tencent.imsdk:imsdk:5.1.138'
+    api ('com.tencent.imsdk:tuikit:5.1.50'){
+        exclude group: 'com.tencent.liteav'
+    }
+    api ('com.tencent.liteav:LiteAVSDK_Smart:8.8.10254')
+    api 'com.squareup.okhttp3:okhttp:3.10.0'
+    api 'com.github.bumptech.glide:glide:4.13.0'
+
+    api 'com.makeramen:roundedimageview:2.2.1'
+
+    implementation files('libs/OcrSDKv1.0.8-release.aar')
+    // OCR SDK 返回实体对象需要的依赖
+    implementation 'com.google.code.gson:gson:2.8.6'
+
+    //原依赖
+    implementation 'androidx.appcompat:appcompat:1.2.0'
+    implementation 'com.google.android.material:material:1.3.0'
+    implementation 'androidx.constraintlayout:constraintlayout:2.0.4'
+    testImplementation 'junit:junit:4.13.2'
+    androidTestImplementation 'androidx.test.ext:junit:1.1.2'
+    androidTestImplementation 'androidx.test.espresso:espresso-core:3.3.0'
+}

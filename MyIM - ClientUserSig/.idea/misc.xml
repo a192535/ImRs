@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/19253/AppData/Local/Android/Sdk/platforms/android-30/data/res/layout/simple_expandable_list_item_1.xml" value="0.1" />
+        <entry key="..\:/Users/yangshuo/yangshuo-DEV/app/MyIM - ClientUserSig/app/src/main/res/drawable/btn.xml" value="0.22083333333333333" />
+        <entry key="..\:/Users/yangshuo/yangshuo-DEV/app/MyIM - ClientUserSig/app/src/main/res/drawable/circular.xml" value="0.22083333333333333" />
+        <entry key="..\:/Users/yangshuo/yangshuo-DEV/app/MyIM - ClientUserSig/app/src/main/res/drawable/edit1.xml" value="0.22083333333333333" />
+        <entry key="..\:/Users/yangshuo/yangshuo-DEV/app/MyIM - ClientUserSig/app/src/main/res/drawable/ic_launcher_background.xml" value="0.22083333333333333" />
+        <entry key="..\:/Users/yangshuo/yangshuo-DEV/app/MyIM - ClientUserSig/app/src/main/res/drawable/pop_cov.xml" value="0.22083333333333333" />
+        <entry key="..\:/Users/yangshuo/yangshuo-DEV/app/MyIM - ClientUserSig/app/src/main/res/layout/activity_main.xml" value="0.18" />
+        <entry key="..\:/Users/yangshuo/yangshuo-DEV/app/MyIM - ClientUserSig/app/src/main/res/layout/add_friend.xml" value="0.25" />
+        <entry key="..\:/Users/yangshuo/yangshuo-DEV/app/MyIM - ClientUserSig/app/src/main/res/layout/add_friends.xml" value="0.1526268115942029" />
+        <entry key="..\:/Users/yangshuo/yangshuo-DEV/app/MyIM - ClientUserSig/app/src/main/res/layout/contact.xml" value="0.17119565217391305" />
+        <entry key="..\:/Users/yangshuo/yangshuo-DEV/app/MyIM - ClientUserSig/app/src/main/res/layout/conversation.xml" value="0.17119565217391305" />
+        <entry key="..\:/Users/yangshuo/yangshuo-DEV/app/MyIM - ClientUserSig/app/src/main/res/layout/end.xml" value="0.1802536231884058" />
+        <entry key="..\:/Users/yangshuo/yangshuo-DEV/app/MyIM - ClientUserSig/app/src/main/res/layout/group_apply_manager_layout.xml" value="0.1526268115942029" />
+        <entry key="..\:/Users/yangshuo/yangshuo-DEV/app/MyIM - ClientUserSig/app/src/main/res/layout/imgtest.xml" value="0.1796875" />
+        <entry key="..\:/Users/yangshuo/yangshuo-DEV/app/MyIM - ClientUserSig/app/src/main/res/layout/my.xml" value="0.18385416666666668" />
+        <entry key="..\:/Users/yangshuo/yangshuo-DEV/app/MyIM - ClientUserSig/app/src/main/res/layout/my_info.xml" value="0.1621376811594203" />
+        <entry key="..\:/Users/yangshuo/yangshuo-DEV/app/MyIM - ClientUserSig/app/src/main/res/layout/pop_cvst.xml" value="0.1802536231884058" />
+        <entry key="..\:/Users/yangshuo/yangshuo-DEV/app/MyIM - ClientUserSig/app/src/main/res/layout/search_friend.xml" value="0.17806484295845998" />
+        <entry key="..\:/Users/yangshuo/yangshuo-DEV/app/MyIM - ClientUserSig/app/src/main/res/layout/set_nick.xml" value="0.17806484295845998" />
+        <entry key="..\:/Users/yangshuo/yangshuo-DEV/app/MyIM - ClientUserSig/app/src/main/res/layout/test.xml" value="0.1802536231884058" />
+        <entry key="..\:/Users/yangshuo/yangshuo-DEV/app/MyIM - ClientUserSig/app/src/main/res/layout/test_serv.xml" value="0.1802536231884058" />
+        <entry key="..\:/Users/yangshuo/yangshuo-DEV/app/MyIM - ClientUserSig/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.19166666666666668" />
+        <entry key="..\:/Users/yangshuo/yangshuo-DEV/app/MyIM/app/src/main/res/drawable/btn.xml" value="0.38229166666666664" />
+        <entry key="..\:/Users/yangshuo/yangshuo-DEV/app/MyIM/app/src/main/res/drawable/circular.xml" value="0.38229166666666664" />
+        <entry key="..\:/Users/yangshuo/yangshuo-DEV/app/MyIM/app/src/main/res/layout/activity_main.xml" value="0.21829710144927536" />
+        <entry key="..\:/Users/yangshuo/yangshuo-DEV/app/MyIM/app/src/main/res/layout/add_friends.xml" value="0.21829710144927536" />
+        <entry key="..\:/Users/yangshuo/yangshuo-DEV/app/MyIM/app/src/main/res/layout/chatlyout.xml" value="0.21829710144927536" />
+        <entry key="..\:/Users/yangshuo/yangshuo-DEV/app/MyIM/app/src/main/res/layout/contact.xml" value="0.21829710144927536" />
+        <entry key="..\:/Users/yangshuo/yangshuo-DEV/app/MyIM/app/src/main/res/layout/conversation.xml" value="0.21829710144927536" />
+        <entry key="..\:/Users/yangshuo/yangshuo-DEV/app/MyIM/app/src/main/res/layout/delete_friends.xml" value="0.21829710144927536" />
+        <entry key="..\:/Users/yangshuo/yangshuo-DEV/app/MyIM/app/src/main/res/layout/end.xml" value="0.21829710144927536" />
+        <entry key="..\:/Users/yangshuo/yangshuo-DEV/app/MyIM/app/src/main/res/layout/friendprofilelayout.xml" value="0.21829710144927536" />
+        <entry key="..\:/Users/yangshuo/yangshuo-DEV/app/MyIM/app/src/main/res/layout/http.xml" value="0.33967391304347827" />
+        <entry key="..\:/Users/yangshuo/yangshuo-DEV/app/MyIM/app/src/main/res/layout/imgtest.xml" value="0.33967391304347827" />
+        <entry key="..\:/Users/yangshuo/yangshuo-DEV/app/MyIM/app/src/main/res/layout/my.xml" value="0.33967391304347827" />
+        <entry key="..\:/Users/yangshuo/yangshuo-DEV/app/MyIM/app/src/main/res/layout/pop_cvst.xml" value="0.33967391304347827" />
+        <entry key="..\:/Users/yangshuo/yangshuo/app/MyIM/app/src/main/res/drawable/btn.xml" value="0.20260416666666667" />
+        <entry key="..\:/Users/yangshuo/yangshuo/app/MyIM/app/src/main/res/drawable/circular.xml" value="0.16666666666666666" />
+        <entry key="..\:/Users/yangshuo/yangshuo/app/MyIM/app/src/main/res/drawable/edit1.xml" value="0.20260416666666667" />
+        <entry key="..\:/Users/yangshuo/yangshuo/app/MyIM/app/src/main/res/drawable/faceicon.xml" value="0.20260416666666667" />
+        <entry key="..\:/Users/yangshuo/yangshuo/app/MyIM/app/src/main/res/drawable/ic_launcher_background.xml" value="0.20260416666666667" />
+        <entry key="..\:/Users/yangshuo/yangshuo/app/MyIM/app/src/main/res/drawable/pop_cov.xml" value="0.16666666666666666" />
+        <entry key="..\:/Users/yangshuo/yangshuo/app/MyIM/app/src/main/res/layout/activity_main.xml" value="0.2046875" />
+        <entry key="..\:/Users/yangshuo/yangshuo/app/MyIM/app/src/main/res/layout/add_friends.xml" value="0.2046875" />
+        <entry key="..\:/Users/yangshuo/yangshuo/app/MyIM/app/src/main/res/layout/anim_pop.xml" value="0.15052083333333333" />
+        <entry key="..\:/Users/yangshuo/yangshuo/app/MyIM/app/src/main/res/layout/chatlyout.xml" value="0.19739583333333333" />
+        <entry key="..\:/Users/yangshuo/yangshuo/app/MyIM/app/src/main/res/layout/contact.xml" value="0.19739583333333333" />
+        <entry key="..\:/Users/yangshuo/yangshuo/app/MyIM/app/src/main/res/layout/conversation.xml" value="0.19739583333333333" />
+        <entry key="..\:/Users/yangshuo/yangshuo/app/MyIM/app/src/main/res/layout/delete_friends.xml" value="0.19010416666666666" />
+        <entry key="..\:/Users/yangshuo/yangshuo/app/MyIM/app/src/main/res/layout/end.xml" value="0.19739583333333333" />
+        <entry key="..\:/Users/yangshuo/yangshuo/app/MyIM/app/src/main/res/layout/friendprofilelayout.xml" value="0.19739583333333333" />
+        <entry key="..\:/Users/yangshuo/yangshuo/app/MyIM/app/src/main/res/layout/group_apply_manager_layout.xml" value="0.25833333333333336" />
+        <entry key="..\:/Users/yangshuo/yangshuo/app/MyIM/app/src/main/res/layout/http.xml" value="0.25833333333333336" />
+        <entry key="..\:/Users/yangshuo/yangshuo/app/MyIM/app/src/main/res/layout/imgtest.xml" value="0.20104166666666667" />
+        <entry key="..\:/Users/yangshuo/yangshuo/app/MyIM/app/src/main/res/layout/live.xml" value="0.15052083333333333" />
+        <entry key="..\:/Users/yangshuo/yangshuo/app/MyIM/app/src/main/res/layout/my.xml" value="0.25833333333333336" />
+        <entry key="..\:/Users/yangshuo/yangshuo/app/MyIM/app/src/main/res/layout/pop_cvst.xml" value="0.15052083333333333" />
+        <entry key="..\:/Users/yangshuo/yangshuo/app/MyIM/app/src/main/res/layout/push_layout.xml" value="0.15052083333333333" />
+        <entry key="..\:/Users/yangshuo/yangshuo/app/MyIM/app/src/main/res/layout/search_friend.xml" value="0.20104166666666667" />
+        <entry key="..\:/Users/yangshuo/yangshuo/app/MyIM/app/src/main/res/layout/test.xml" value="0.20104166666666667" />
+        <entry key="..\:/Users/yangshuo/yangshuo/app/MyIM/app/src/main/res/layout/test_serv.xml" value="0.20104166666666667" />
+        <entry key="..\:/yangshuo/app/MyIM/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.1" />
+        <entry key="..\:/yangshuo/app/MyIM/app/src/main/res/drawable/btn.xml" value="0.2164102564102564" />
+        <entry key="..\:/yangshuo/app/MyIM/app/src/main/res/drawable/edit.xml" value="0.1" />
+        <entry key="..\:/yangshuo/app/MyIM/app/src/main/res/drawable/edit1.xml" value="0.1" />
+        <entry key="..\:/yangshuo/app/MyIM/app/src/main/res/drawable/faceicon.xml" value="0.1" />
+        <entry key="..\:/yangshuo/app/MyIM/app/src/main/res/drawable/ic_launcher_background.xml" value="0.1" />
+        <entry key="..\:/yangshuo/app/MyIM/app/src/main/res/drawable/test.xml" value="0.20092592592592592" />
+        <entry key="..\:/yangshuo/app/MyIM/app/src/main/res/layout/activity_main.xml" value="0.2" />
+        <entry key="..\:/yangshuo/app/MyIM/app/src/main/res/layout/add_friends.xml" value="0.23909249563699825" />
+        <entry key="..\:/yangshuo/app/MyIM/app/src/main/res/layout/background.xml" value="0.2" />
+        <entry key="..\:/yangshuo/app/MyIM/app/src/main/res/layout/chatlyout.xml" value="0.1" />
+        <entry key="..\:/yangshuo/app/MyIM/app/src/main/res/layout/contact.xml" value="0.12" />
+        <entry key="..\:/yangshuo/app/MyIM/app/src/main/res/layout/conversation.xml" value="0.1" />
+        <entry key="..\:/yangshuo/app/MyIM/app/src/main/res/layout/delete_friends.xml" value="0.1" />
+        <entry key="..\:/yangshuo/app/MyIM/app/src/main/res/layout/end.xml" value="0.1" />
+        <entry key="..\:/yangshuo/app/MyIM/app/src/main/res/layout/friendprofilelayout.xml" value="0.1" />
+        <entry key="..\:/yangshuo/app/MyIM/app/src/main/res/layout/group_apply_manager_layout.xml" value="0.1" />
+        <entry key="..\:/yangshuo/app/MyIM/app/src/main/res/layout/my.xml" value="0.298828125" />
+        <entry key="..\:/yangshuo/app/MyIM/app/src/main/res/layout/play_layout.xml" value="0.16168478260869565" />
+        <entry key="..\:/yangshuo/app/MyIM/app/src/main/res/layout/push_layout.xml" value="0.1" />
+        <entry key="..\:/yangshuo/app/MyIM/app/src/main/res/layout/search_friend.xml" value="0.25" />
+        <entry key="..\:/yangshuo/app/MyIM/app/src/main/res/layout/settool.xml" value="0.1" />
+        <entry key="..\:/yangshuo/app/MyIM/app/src/main/res/layout/test.xml" value="0.22" />
+        <entry key="..\:/yangshuo/app/MyIM/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.1" />
+        <entry key="..\:/yangshuo/app/MyIM/superplayerkit/src/main/res/drawable/superplayer_biz_video_progressbar.xml" value="0.1296875" />
+        <entry key="..\:/yangshuo/app/MyIM/superplayerkit/src/main/res/drawable/superplayer_gray_thumb.xml" value="0.1296875" />
+        <entry key="..\:/yangshuo/app/MyIM/superplayerkit/src/main/res/layout/superplayer_item_new_vod.xml" value="0.11354166666666667" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="11" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

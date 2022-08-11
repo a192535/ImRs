@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <RelativeLayout
+        android:id="@+id/RelativeLayout1"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_marginTop="70dp"
+        >
+
+        <EditText
+            android:id="@+id/deleteID"
+            android:layout_width="fill_parent"
+            android:layout_height="50dp"
+            android:layout_marginStart="30dp"
+            android:layout_marginTop="5dp"
+            android:layout_marginEnd="80dp"
+            android:autofillHints="12313131111311313"
+            android:hint="ID"
+            android:inputType="text"
+            android:paddingStart="30dp"
+            android:textColorHint="#95A1AA" />
+
+        <EditText
+            android:id="@+id/nick_name"
+            android:layout_width="fill_parent"
+            android:layout_height="50dp"
+            android:layout_below="@+id/deleteID"
+            android:layout_marginStart="30dp"
+            android:layout_marginTop="5dp"
+            android:layout_marginEnd="80dp"
+            android:autofillHints="12313131111311313"
+            android:hint="昵称"
+            android:inputType="text"
+            android:paddingStart="30dp"
+            android:textColorHint="#95A1AA" />
+
+        <Button
+            android:id="@+id/delete_btn"
+            android:layout_width="match_parent"
+            android:layout_height="40dp"
+            android:layout_below="@+id/nick_name"
+            android:layout_marginStart="100dp"
+            android:layout_marginTop="15dp"
+            android:layout_marginEnd="100dp"
+            android:alpha="0.9"
+            android:background="@color/blue"
+            android:text="删除好友好友" />
+    </RelativeLayout>
+
+</androidx.constraintlayout.widget.ConstraintLayout>
